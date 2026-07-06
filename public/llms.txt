@@ -1,0 +1,24 @@
+# Gasser Elnaggar - Frontend Developer Portfolio
+> Frontend Developer specializing in high-performance React interfaces, responsive Tailwind CSS layouts, and client-side logic.
+
+## Overview
+A clean, high-performance frontend portfolio featuring a client-side implementation of the classic Minesweeper puzzle game. This project demonstrates responsive interface design, zero layout shifts, complex state tracking, and secure client-side form validation routed via a proxy handler to protect API endpoints.
+
+## Technical Proficiencies
+- Core Stack: React, TypeScript, Tailwind CSS, Vite
+- State Management: React Hooks (useState, useEffect, useMemo, useCallback), layout state arrays
+- Tooling: Package scripts via Vite, basic Vercel rewrites configuration
+- API Interaction: Client-side validation with Axios, basic secure key proxying via serverless utility files
+
+## Source Architecture
+
+- [/src/pages/Home.tsx](/src/pages/Home.tsx): Main landing page hub coordinating application state layout, interface routing, and recursive tile disclosure loops.
+- [/src/components/TileComponent.tsx](/src/components/TileComponent.tsx): Handles individual grid cells, click event mechanics, context menus, and visual state styling.
+- [/src/types/Types.ts](/src/types/Types.ts): Explicit TypeScript interfaces defining game variables and layout structures.
+
+## Functional Utilities
+
+- [/src/utils/createBoard.ts](/src/utils/createBoard.ts): Builds the game's multi-dimensional array and structures item offsets.
+- [/src/utils/nearbyTiles.ts](/src/utils/nearbyTiles.ts): Identifies cell groupings surrounding coordinates.
+- [/src/utils/checkWin.ts](/src/utils/checkWin.ts): Evaluates winning and losing grid criteria.
+- [/api/post-email.ts](/api/post-email.ts): Lightweight serverless routing function used to hide private Formspree submission URLs from public browser network logs and execute basic character-length validation.

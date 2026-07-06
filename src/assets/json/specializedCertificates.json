@@ -1,0 +1,58 @@
+[
+  {
+    "id": "meta-frontend-developer",
+    "title": "Meta Front-End Developer Professional Certificate",
+    "issuer": "Meta",
+    "date": "Feb 17, 2026",
+    "skills": [
+      "React",
+      "Advanced React",
+      "JavaScript",
+      "Version Control",
+      "UX/UI Design Principles"
+    ],
+    "imagePath": "CourseraF7V0BZ34OTIK.webp",
+    "verificationUrl": "https://coursera.org/verify/professional-cert/F7V0BZ34OTIK"
+  },
+  {
+    "id": "jhu-html-css-javascript",
+    "title": "HTML, CSS, and Javascript for Web Developers",
+    "issuer": "Johns Hopkins University",
+    "date": "Feb 18, 2026",
+    "skills": [
+      "HTML5",
+      "Responsive Design",
+      "Asynchronous JavaScript",
+      "Ajax Integration"
+    ],
+    "imagePath": "CourseraZJJZ3YCZM7XF.webp",
+    "verificationUrl": "https://coursera.org/verify/specialization/ZJJZ3YCZM7XF"
+  },
+  {
+    "id": "uol-computer-science-programming",
+    "title": "Introduction to Computer Science and Programming",
+    "issuer": "University of London / Goldsmiths",
+    "date": "Feb 20, 2026",
+    "skills": [
+      "Computational Mathematics",
+      "Computer Science Principles",
+      "Basic Computing Fundamentals"
+    ],
+    "imagePath": "Coursera76YAVSJPHZVK.webp",
+    "verificationUrl": "https://coursera.org/verify/specialization/76YAVSJPHZVK"
+  },
+  {
+    "id": "umich-python-for-everybody",
+    "title": "Python for Everybody",
+    "issuer": "University of Michigan",
+    "date": "Aug 22, 2024",
+    "skills": [
+      "Python Programming",
+      "Data Structures",
+      "Database Management",
+      "Web Data Access Extraction"
+    ],
+    "imagePath": "CourseraUGKXG4H6S660.webp",
+    "verificationUrl": "https://coursera.org/verify/specialization/UGKXG4H6S660"
+  }
+]

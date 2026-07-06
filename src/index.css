@@ -1,0 +1,50 @@
+@import "tailwindcss";
+@import "tailwind-scrollbar-hide/v4";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  --default-font-family: "Gotham Rounded", sans-serif;
+
+  --text-xxs: 10px;
+  --text-md: 16px;
+
+  --color-background: #333;
+  --color-board: #777;
+  --color-tiles: #bbb;
+  --color-darkBlue: hsl(217, 28%, 15%);
+
+  --grid-template-columns-board: repeat(var(--size), 40px);
+  --grid-template-rows-board: repeat(var(--size), 40px);
+
+  --grid-template-columns-board-mobile: repeat(var(--size), 28px);
+  --grid-template-rows-board-mobile: repeat(var(--size), 28px);
+
+  --animate-arrow-bounce: bounceRight 1.2s ease-in-out infinite;
+}
+
+@layer base {
+  html,
+  body {
+    scrollbar-width: none;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}
+
+@font-face {
+  font-family: "Gotham Rounded";
+  src: url("./assets/fonts/gothamrnd_medium.otf");
+  font-display: swap;
+}
+
+@keyframes bounceRight {
+  0%,
+  100% {
+    transform: translateX(0) translateY(0);
+  }
+
+  50% {
+    transform: translateX(1px) translateY(-1px);
+  }
+}

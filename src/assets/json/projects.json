@@ -1,0 +1,97 @@
+[
+  {
+    "id": "router-dashboard",
+    "title": "Router Dashboard",
+    "description": "A multi-page dashboard application incorporating client-side routing and data fetching to display posts, user profiles, and tasks.",
+    "skills": [
+      "React",
+      "React Router",
+      "TypeScript",
+      "Tailwind CSS",
+      "Local Storage",
+      "Vercel Serverless API",
+      "JSONPlaceholder API"
+    ],
+    "imagePath": "dashboard.webp",
+    "projectUrl": "https://router-dashboard.vercel.app/",
+    "insightUrl": "https://pagespeed.web.dev/analysis/https-router-dashboard-vercel-app/vcgro3leiq?form_factor=desktop"
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "description": "A responsive, client-side implementation of the classic logic puzzle focusing on state management and zero layout shifts.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Vite",
+      "State Management"
+    ],
+    "imagePath": "minesweeper.webp",
+    "projectUrl": "https://minesweeper-website.vercel.app/",
+    "insightUrl": "https://pagespeed.web.dev/analysis/https-minesweeper-website-vercel-app/9n0o1xd83m?form_factor=desktop"
+  },
+  {
+    "id": "color-guessing-game",
+    "title": "Color Guessing Game",
+    "description": "An interactive logic game that generates randomized color palettes across multiple color spaces (RGB, Hex, HSL). Features dynamic difficulty tiering that controls grid scaling states and color generation algorithms.",
+    "skills": ["Vanilla JS", "Tailwind CSS", "Parcel"],
+    "imagePath": "color-game.webp",
+    "projectUrl": "https://color-game-website.vercel.app/",
+    "insightUrl": ""
+  },
+  {
+    "id": "bookmark-landing",
+    "title": "Bookmark Landing Page",
+    "description": "A high-performance landing page layout featuring pixel-perfect responsive styling, optimized asset pipelines, and semantic structure.",
+    "skills": ["Vanilla JS", "Tailwind CSS", "Parcel"],
+    "imagePath": "bookmark.webp",
+    "projectUrl": "https://bookmark-g.vercel.app/",
+    "insightUrl": ""
+  },
+  {
+    "id": "fylo-landing-page",
+    "title": "Fylo Landing Page",
+    "description": "A complex, multi-themed service landing page featuring responsive multi-column layouts and validation-ready newsletter capture blocks.",
+    "skills": ["Vanilla JS", "Tailwind CSS", "Parcel"],
+    "imagePath": "fylo.webp",
+    "projectUrl": "https://fylo-g.vercel.app/",
+    "insightUrl": ""
+  },
+  {
+    "id": "loopstudios-landing-page",
+    "title": "Loopstudios Landing Page",
+    "description": "A sleek digital agency landing page showcasing modern typography overlays, a dynamic responsive photo gallery grid, interactive button hover states, and structural multi-column navigation components.",
+    "skills": ["Vanilla JS", "Tailwind CSS", "Parcel"],
+    "imagePath": "loopstudios.webp",
+    "projectUrl": "https://loop-studios-g.vercel.app/",
+    "insightUrl": ""
+  },
+  {
+    "id": "shortly-landing-page",
+    "title": "Shortly Link Shortener",
+    "description": "A clean, modern product landing page featuring structured feature grids, responsive layout components, and light JavaScript interactions for user workflows.",
+    "skills": ["Vanilla JS", "Tailwind CSS", "Parcel"],
+    "imagePath": "shortly.webp",
+    "projectUrl": "https://shortly-g.vercel.app/",
+    "insightUrl": ""
+  },
+  {
+    "id": "clipboard-landing-page",
+    "title": "Clipboard Landing Page",
+    "description": "A feature-rich corporate landing page layout showcasing structured flex and grid distributions, feature feature-utility components, responsive cross-platform layout wrappers, and styled call-to-action sections.",
+    "skills": ["Vanilla JS", "Tailwind CSS", "Parcel"],
+    "imagePath": "clipboard.webp",
+    "projectUrl": "https://clipboard-g.vercel.app/",
+    "insightUrl": ""
+  },
+  {
+    "id": "testimonial-grid",
+    "title": "Testimonials Grid Section",
+    "description": "An advanced asymmetric grid layout built to showcase intricate column and row-spanning mechanics. Focuses on robust responsive ordering, multi-colored card profiles, and background image positioning.",
+    "skills": ["Vanilla JS", "Tailwind CSS", "Parcel"],
+    "imagePath": "testimonials.webp",
+    "projectUrl": "https://testimonial-grid-g.vercel.app/",
+    "insightUrl": ""
+  }
+]

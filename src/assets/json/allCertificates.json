@@ -1,0 +1,239 @@
+[
+  {
+    "id": "meta-advanced-react",
+    "title": "Advanced React",
+    "issuer": "Meta",
+    "date": "Feb 6, 2026",
+    "skills": [
+      "React Hooks",
+      "JSX Components",
+      "State Management",
+      "Web Application Architecture"
+    ],
+    "imagePath": "Coursera637RR75R6HR9.webp",
+    "verificationUrl": "https://coursera.org/verify/637RR75R6HR9"
+  },
+  {
+    "id": "meta-coding-interview-preparation",
+    "title": "Coding Interview Preparation",
+    "issuer": "Meta",
+    "date": "Feb 17, 2026",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Problem Solving",
+      "Computer Science Fundamentals"
+    ],
+    "imagePath": "Coursera3909ZF2R99YR.webp",
+    "verificationUrl": "https://coursera.org/verify/3909ZF2R99YR"
+  },
+  {
+    "id": "meta-frontend-developer-capstone",
+    "title": "Front-End Developer Capstone",
+    "issuer": "Meta",
+    "date": "Feb 17, 2026",
+    "skills": [
+      "Full Application Testing",
+      "React Implementation",
+      "UI/UX Refinement",
+      "Project Deployment"
+    ],
+    "imagePath": "CourseraBJW9ABT78S8W.webp",
+    "verificationUrl": "https://coursera.org/verify/BJW9ABT78S8W"
+  },
+  {
+    "id": "meta-html-css-in-depth",
+    "title": "HTML and CSS in depth",
+    "issuer": "Meta",
+    "date": "Oct 30, 2024",
+    "skills": [
+      "Advanced CSS Layouts",
+      "Semantic HTML5",
+      "Responsive Web Design",
+      "CSS Grid & Flexbox"
+    ],
+    "imagePath": "CourseraNKNV979QZSLZ.webp",
+    "verificationUrl": "https://coursera.org/verify/NKNV979QZSLZ"
+  },
+  {
+    "id": "meta-introduction-to-frontend-development",
+    "title": "Introduction to Front-End Development",
+    "issuer": "Meta",
+    "date": "Sep 8, 2024",
+    "skills": [
+      "Web Development Basics",
+      "HTML5 Basics",
+      "CSS Stylesheets",
+      "Internet Architecture Concepts"
+    ],
+    "imagePath": "Coursera9LRYW8QPTP6I.webp",
+    "verificationUrl": "https://coursera.org/verify/9LRYW8QPTP6I"
+  },
+  {
+    "id": "meta-principles-of-ux-ui-design",
+    "title": "Principles of UX/UI Design",
+    "issuer": "Meta",
+    "date": "Feb 9, 2026",
+    "skills": [
+      "User Experience (UX)",
+      "User Interface (UI)",
+      "Wireframing & Prototyping",
+      "User-Centric Workflows"
+    ],
+    "imagePath": "CourseraH3VQKYRGW8JA.webp",
+    "verificationUrl": "https://coursera.org/verify/H3VQKYRGW8JA"
+  },
+  {
+    "id": "meta-programming-with-javascript",
+    "title": "Programming with JavaScript",
+    "issuer": "Meta",
+    "date": "Sep 23, 2024",
+    "skills": [
+      "JavaScript Syntax",
+      "Object-Oriented Programming",
+      "Functional Programming",
+      "DOM Manipulation"
+    ],
+    "imagePath": "CourseraE2H2CFTGQEQC.webp",
+    "verificationUrl": "https://coursera.org/verify/E2H2CFTGQEQC"
+  },
+  {
+    "id": "meta-react-basics",
+    "title": "React Basics",
+    "issuer": "Meta",
+    "date": "Jul 21, 2025",
+    "skills": [
+      "React Components",
+      "Props and State",
+      "Component Styling",
+      "Single Page Applications"
+    ],
+    "imagePath": "CourseraEISCJ1MZD6EZ.webp",
+    "verificationUrl": "https://coursera.org/verify/EISCJ1MZD6EZ"
+  },
+  {
+    "id": "meta-version-control",
+    "title": "Version Control",
+    "issuer": "Meta",
+    "date": "Sep 29, 2024",
+    "skills": [
+      "Git Architecture",
+      "GitHub Workflows",
+      "Branching and Merging",
+      "Command Line Interface"
+    ],
+    "imagePath": "CourseraLH3CH8EVP7Q2.webp",
+    "verificationUrl": "https://coursera.org/verify/LH3CH8EVP7Q2"
+  },
+  {
+    "id": "jhu-introduction-javascript-ajax",
+    "title": "Introduction to Javascript and Ajax: Building Web Apps",
+    "issuer": "Johns Hopkins University",
+    "date": "Feb 18, 2026",
+    "skills": [
+      "JavaScript",
+      "Ajax",
+      "Web Application Development",
+      "Dynamic Content"
+    ],
+    "imagePath": "CourseraMJOX6T4HAH3U.webp",
+    "verificationUrl": "https://coursera.org/verify/MJOX6T4HAH3U"
+  },
+  {
+    "id": "jhu-coding-static-restaurant-site",
+    "title": "Coding the Static Restaurant Site",
+    "issuer": "Johns Hopkins University",
+    "date": "Feb 18, 2026",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Responsive Web Design",
+      "Static Site Architecture"
+    ],
+    "imagePath": "CourseraY1M36GMT1K5O.webp",
+    "verificationUrl": "https://coursera.org/verify/Y1M36GMT1K5O"
+  },
+  {
+    "id": "jhu-html-css-javascript-web-developers",
+    "title": "HTML, CSS, and Javascript for Web Developers",
+    "issuer": "Johns Hopkins University",
+    "date": "Oct 17, 2023",
+    "skills": ["HTML5", "CSS3", "JavaScript Basics", "Frontend Workflows"],
+    "imagePath": "Coursera6ESZZ9BAARJZ.webp",
+    "verificationUrl": "https://coursera.org/verify/6ESZZ9BAARJZ"
+  },
+  {
+    "id": "jhu-introduction-to-css3",
+    "title": "Introduction to CSS3",
+    "issuer": "Johns Hopkins University",
+    "date": "Feb 18, 2026",
+    "skills": ["CSS3", "Web Styling", "Layout Design", "Cascade & Inheritance"],
+    "imagePath": "CourseraVKIQQF9X6OYL.webp",
+    "verificationUrl": "https://coursera.org/verify/VKIQQF9X6OYL"
+  },
+  {
+    "id": "umich-introduction-to-html5",
+    "title": "Introduction to HTML5",
+    "issuer": "University of Michigan",
+    "date": "Feb 25, 2026",
+    "skills": [
+      "HTML5",
+      "Semantic Web",
+      "Web Accessibility",
+      "Document Structure"
+    ],
+    "imagePath": "CourseraY34RPR4GWM0R.webp",
+    "verificationUrl": "https://coursera.org/verify/Y34RPR4GWM0R"
+  },
+  {
+    "id": "uol-how-computers-work",
+    "title": "How Computers Work",
+    "issuer": "University of London",
+    "date": "Feb 8, 2024",
+    "skills": [
+      "Computer Science Foundations",
+      "Digital Systems",
+      "Hardware Architecture",
+      "Computing Logic"
+    ],
+    "imagePath": "CourseraUNU7EGXLT76A.webp",
+    "verificationUrl": "https://coursera.org/verify/UNU7EGXLT76A"
+  },
+  {
+    "id": "uol-introduction-to-computer-programming",
+    "title": "Introduction to Computer Programming",
+    "issuer": "University of London",
+    "date": "Sep 24, 2023",
+    "skills": [
+      "Programming Logic",
+      "Algorithm Design",
+      "Problem Solving",
+      "Code Syntax"
+    ],
+    "imagePath": "CourseraRUE5EP868L6W.webp",
+    "verificationUrl": "https://coursera.org/verify/RUE5EP868L6W"
+  },
+  {
+    "id": "uol-mathematics-for-computer-science",
+    "title": "Mathematics for Computer Science",
+    "issuer": "University of London",
+    "date": "Feb 20, 2026",
+    "skills": [
+      "Discrete Mathematics",
+      "Computational Math",
+      "Logic & Proofs",
+      "Mathematical Modelling"
+    ],
+    "imagePath": "CourseraYCCMD09ZYVJT.webp",
+    "verificationUrl": "https://coursera.org/verify/YCCMD09ZYVJT"
+  },
+  {
+    "id": "ibm-introduction-html-css-javascript",
+    "title": "Introduction to HTML, CSS, & JavaScript",
+    "issuer": "IBM",
+    "date": "Feb 21, 2026",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Web Development Basics"],
+    "imagePath": "CourseraJ8FQPVFBCHSF.webp",
+    "verificationUrl": "https://coursera.org/verify/J8FQPVFBCHSF"
+  }
+]

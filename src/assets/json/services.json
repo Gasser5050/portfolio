@@ -1,0 +1,17 @@
+[
+  {
+    "id": "figma-to-react",
+    "title": "Figma to React & Tailwind App",
+    "description": "If you have a design ready in Figma, I can turn it into clean, pixel-perfect React components. I write structured Tailwind CSS from scratch to ensure everything adapts beautifully and runs smoothly on phones, tablets, and desktops."
+  },
+  {
+    "id": "api-integration",
+    "title": "TypeScript & Secure API Integration",
+    "description": "I connect your user interface to external web services using Axios and TypeScript to handle live data feeds safely. By routing sensitive requests through Vercel serverless functions, I keep your private API keys hidden from browser inspection."
+  },
+  {
+    "id": "seo-performance",
+    "title": "Performance & Clean UI Development",
+    "description": "I build websites that load instantly and are easy for everyone to use. By using correct structural tags and keeping the code optimized, I ensure your project achieves excellent PageSpeed Insight scores and ranks well on search engines."
+  }
+]
