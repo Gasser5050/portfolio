@@ -32,7 +32,7 @@ function FormButton({
     <button
       type="submit"
       disabled={state === "submitting"}
-      className="font-medium min-w-30 px-4 py-2 text-white bg-sky-600 hover:ring-2 hover:ring-white dark:hover:ring-black focus:ring-2 focus:ring-white dark:focus:ring-black outline-0 transition duration-200 rounded-full cursor-pointer"
+      className="font-medium min-w-30 px-4 py-2 text-black bg-cyan-400 hover:ring-2 hover:ring-white dark:hover:ring-black focus:ring-2 focus:ring-white dark:focus:ring-black outline-0 transition duration-200 rounded-full cursor-pointer"
     >
       {state === "submitting" && (
         <div className="flex items-center justify-center gap-2">

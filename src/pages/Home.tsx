@@ -114,7 +114,7 @@ function Home() {
                   href={"https://github.com/Gasser5050"}
                   rel="noreferrer"
                   target="_blank"
-                  className={"text-cyan-300 dark:text-indigo-700"}
+                  className={"text-sm underline text-cyan-300 dark:text-indigo-700"}
                 >
                   Github
                 </a>
