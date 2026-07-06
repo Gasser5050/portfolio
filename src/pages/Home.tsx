@@ -105,7 +105,7 @@ function Home() {
                 Minesweeper game built directly into this layout.
               </p>
 
-              <p className="text-xs md:text-md lg:text-md text-slate-400 dark:text-slate-600 leading-relaxed">
+              <p className="text-xs md:text-md lg:text-md text-slate-300 dark:text-slate-600 leading-relaxed">
                 I built this isolated sandbox to showcase how I tackle complex
                 frontend logic, specifically multi-dimensional array states,
                 recursive tile revealing algorithms, and state history stacks
@@ -114,7 +114,7 @@ function Home() {
                   href={"https://github.com/Gasser5050"}
                   rel="noreferrer"
                   target="_blank"
-                  className={"text-[#00caea] dark:text-indigo-700"}
+                  className={"text-cyan-300 dark:text-indigo-700"}
                 >
                   Github
                 </a>
