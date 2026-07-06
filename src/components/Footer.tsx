@@ -96,7 +96,7 @@ function Footer() {
         </a>
       </div>
 
-      <div className="text-sm text-center text-slate-400">
+      <div className="text-sm text-center text-slate-500 dark:text-slate-400">
         <p className="text-center">en.gasser.elnaggar@gmail.com</p>
         &copy;{new Date().getFullYear()} Gasser Elnaggar. All rights reserved.
       </div>
