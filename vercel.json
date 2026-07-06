@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/post-email",
+      "destination": "/api/post-email.ts"
+    }
+  ]
+}
