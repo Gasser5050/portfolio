@@ -3,6 +3,10 @@
     {
       "source": "/api/post-email",
       "destination": "/api/post-email.ts"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
