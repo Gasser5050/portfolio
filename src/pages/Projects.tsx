@@ -8,7 +8,7 @@ function Projects() {
         <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-semibold tracking-tight">
           Featured Projects
         </h1>
-        <p className="font-sans text-sm sm:text-md md:text-lg leading-relaxed text-slate-500 dark:text-slate-400">
+        <p className="font-sans text-sm sm:text-md md:text-lg leading-relaxed text-slate-700 dark:text-slate-400">
           I build clean, responsive frontend applications with a strict focus on
           web vitals and optimization. By minimizing bundle sizes and
           eliminating layout shifts, I ensure every project delivers a seamless

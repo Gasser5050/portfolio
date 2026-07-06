@@ -13,7 +13,7 @@ function Certificates() {
         <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-black tracking-tight">
           Verified Credentials
         </h1>
-        <p className="font-sans text-sm sm:text-md md:text-lg leading-relaxed md:leading-7 text-slate-500 dark:text-slate-400 ">
+        <p className="font-sans text-sm sm:text-md md:text-lg leading-relaxed md:leading-7 text-slate-700 dark:text-slate-400 ">
           Structured technical training, professional specializations, and
           computer science foundations I have completed. This coursework covers
           modern frontend architectures, responsive interface design, core
