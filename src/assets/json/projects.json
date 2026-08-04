@@ -12,7 +12,7 @@
   ],
   "imagePath": "Everlane-Store.webp",
   "projectUrl": "https://e-commerce-headless-setup.vercel.app/",
-  "insightUrl": "https://pagespeed.web.dev/analysis/https-e-commerce-headless-setup-vercel-app/nfs94objqs?form_factor=desktop"
+  "insightUrl": "https://pagespeed.web.dev/analysis?url=https://e-commerce-headless-setup.vercel.app/"
 },
   {
     "id": "router-dashboard",
@@ -29,7 +29,7 @@
     ],
     "imagePath": "dashboard.webp",
     "projectUrl": "https://router-dashboard.vercel.app/",
-    "insightUrl": "https://pagespeed.web.dev/analysis/https-router-dashboard-vercel-app/vcgro3leiq?form_factor=desktop"
+    "insightUrl": "https://pagespeed.web.dev/analysis?url=https://router-dashboard-vercel-app.vercel.app/"
   },
   {
     "id": "minesweeper",
@@ -44,7 +44,7 @@
     ],
     "imagePath": "minesweeper.webp",
     "projectUrl": "https://minesweeper-website.vercel.app/",
-    "insightUrl": "https://pagespeed.web.dev/analysis/https-minesweeper-website-vercel-app/9n0o1xd83m?form_factor=desktop"
+    "insightUrl": "https://pagespeed.web.dev/analysis?url=https://minesweeper-website.vercel.app/"
   },
   {
     "id": "color-guessing-game",
