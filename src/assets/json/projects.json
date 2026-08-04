@@ -1,5 +1,20 @@
 [
   {
+  "id": "everlane-e-commerce",
+  "title": "Everlane E-Commerce Store",
+  "description": "A full-stack, headless e-commerce application featuring dynamic product cataloging, CMS-driven inventory management, and a secure checkout flow.",
+  "skills": [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Sanity CMS",
+    "Stripe API"
+  ],
+  "imagePath": "Everlane-Store.webp",
+  "projectUrl": "https://e-commerce-headless-setup.vercel.app/",
+  "insightUrl": "https://pagespeed.web.dev/analysis/https-e-commerce-headless-setup-vercel-app/nfs94objqs?form_factor=desktop"
+},
+  {
     "id": "router-dashboard",
     "title": "Router Dashboard",
     "description": "A multi-page dashboard application incorporating client-side routing and data fetching to display posts, user profiles, and tasks.",
