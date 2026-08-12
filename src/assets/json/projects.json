@@ -15,21 +15,22 @@
   "insightUrl": "https://pagespeed.web.dev/analysis?url=https://e-commerce-headless-setup.vercel.app/&form_factor=desktop"
 },
   {
-    "id": "router-dashboard",
-    "title": "Router Dashboard",
-    "description": "A multi-page dashboard application incorporating client-side routing and data fetching to display posts, user profiles, and tasks.",
+    "id": "nextjs-dashboard",
+    "title": "Next.js Full-Stack Dashboard",
+    "description": "A full-stack dashboard built with Next.js App Router, featuring database operations via Prisma ORM & PostgreSQL, progressive enhancement with Server Actions, Zod validation, dynamic metadata/SEO optimization, and streaming skeleton UI states.",
     "skills": [
-      "React",
-      "React Router",
+      "Next.js",
+      "React 19",
       "TypeScript",
       "Tailwind CSS",
-      "Local Storage",
-      "Vercel Serverless API",
-      "JSONPlaceholder API"
+      "Prisma ORM",
+      "PostgreSQL",
+      "Server Actions",
+      "Zod"
     ],
     "imagePath": "dashboard.webp",
-    "projectUrl": "https://router-dashboard.vercel.app/",
-    "insightUrl": "https://pagespeed.web.dev/analysis?url=https://router-dashboard.vercel.app/&form_factor=desktop"
+    "projectUrl": "https://next-dashboard-gasser.vercel.app/",
+    "insightUrl": "https://pagespeed.web.dev/analysis?url=https://next-dashboard-gasser.vercel.app/&form_factor=desktop"
   },
   {
     "id": "minesweeper",
