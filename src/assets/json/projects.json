@@ -1,18 +1,23 @@
 [
   {
-  "id": "everlane-e-commerce",
-  "title": "Everlane E-Commerce Store",
-  "description": "A full-stack, headless e-commerce application featuring dynamic product cataloging, CMS-driven inventory management, and a secure checkout flow.",
+  "id": "headless-ecommerce-storefront",
+  "title": "Headless E-Commerce Storefront",
+  "description": "A full-stack, headless e-commerce store built with Next.js App Router, Sanity CMS, and Stripe Checkout. Features race-condition-safe inventory tracking, automated Stripe refunds, on-demand cache revalidation, Resend transactional receipts, and 100/100 Core Web Vitals on mobile and desktop.",
   "skills": [
-    "React",
+    "Next.js",
+    "React 19",
     "TypeScript",
-    "Tailwind CSS",
+    "Tailwind CSS v4",
     "Sanity CMS",
-    "Stripe API"
+    "Stripe API",
+    "Resend",
+    "Zustand",
+    "Webhooks",
+    "SEO"
   ],
   "imagePath": "Everlane-Store.webp",
-  "projectUrl": "https://e-commerce-headless-setup.vercel.app/",
-  "insightUrl": "https://pagespeed.web.dev/analysis?url=https://e-commerce-headless-setup.vercel.app/&form_factor=desktop"
+  "projectUrl": "https://next-sanity-stripe-storefront.vercel.app/",
+  "insightUrl": "https://pagespeed.web.dev/analysis?url=https://next-sanity-stripe-storefront.vercel.app/&form_factor=desktop"
 },
   {
     "id": "nextjs-dashboard",
